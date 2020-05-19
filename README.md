@@ -7,4 +7,5 @@
 Find frequency of elements
 
 [Solution](solution/FrequencyOfElements.java)
+
 ---

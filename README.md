@@ -1,4 +1,4 @@
-# CustomPrograms
+# Custom Programs
 #### Custom made programs for analyzing complexities
 
 ---
